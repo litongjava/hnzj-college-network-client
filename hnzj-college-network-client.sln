@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hnzj-college-network-client", "hnzj-college-network-client\hnzj-college-network-client.csproj", "{37454DD4-4AF4-4BDE-8ED6-96C207DFBCF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37454DD4-4AF4-4BDE-8ED6-96C207DFBCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37454DD4-4AF4-4BDE-8ED6-96C207DFBCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37454DD4-4AF4-4BDE-8ED6-96C207DFBCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37454DD4-4AF4-4BDE-8ED6-96C207DFBCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6930F87C-4245-4733-8ED7-40C8C3AE6762}
+	EndGlobalSection
+EndGlobal
